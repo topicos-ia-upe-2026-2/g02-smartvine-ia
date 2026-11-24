@@ -1,3 +1,16 @@
+# Versões usadas na E2 (treino em GPU: instale o torch com CUDA conforme pytorch.org)
+ultralytics==8.4.*
+torch>=2.5
+torchvision>=0.20
+opencv-python-headless>=4.10
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+pyyaml>=6.0
+onnx>=1.16
+onnxruntime>=1.18
+nbformat>=5.10
+=======
 # Dependências do projeto — atualizar conforme a etapa
 # Exemplos (remover o que não usar):
 # torch
